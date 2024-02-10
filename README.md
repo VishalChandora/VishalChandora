@@ -29,9 +29,9 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)&nbsp;
 
 </td>
-    <td width="40%">
+    <td>
   
-## 📄📜 Stats
+## 📊 Stats
 
 
 <p align="center">
