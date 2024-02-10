@@ -1,6 +1,6 @@
 <table align="center">
 
- <tr>
+ <tr border="none" >
     <td width="60%">
      
 ## 🛠️ Skills
