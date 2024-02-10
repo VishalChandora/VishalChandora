@@ -1,4 +1,4 @@
-<table>
+<table align="center">
 
  <tr>
     <td width="60%">
@@ -55,8 +55,6 @@
 - 💬 Ask me about **Web development | OOC**
 
 - 📫 How to reach me **vchandora07@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
 
 </td>
 <td width="50%" align="center">
