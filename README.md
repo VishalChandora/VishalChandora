@@ -1,7 +1,7 @@
-<table width="100%" >
+<table width="100%" style="border-collapse: collapse;">
 
  <tr>
-    <td width="60%">
+    <td width="60%" style="padding: 20px; vertical-align: top;">
      
 ## 🛠️ Skills
 
