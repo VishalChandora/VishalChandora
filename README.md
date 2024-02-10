@@ -1,8 +1,6 @@
 <table align="center">
-
- <tr border="none" >
-    <td width="60%">
-     
+ <tr border="none">
+    <td width="60%"> 
 ## 🛠️ Skills
 
 #### Languages
@@ -33,15 +31,13 @@
   
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Stats
 
-
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=VishalChandora&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalChandora"/>
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalChandora&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-</p>
-     
+</p>  
   </td>
  </tr>
 </table>
