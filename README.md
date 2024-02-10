@@ -1,8 +1,9 @@
 <table align="center">
  <tr>
     <td width="60%"> 
+     
 ## 🛠️ Skills
-zzz
+     
 #### Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; 
